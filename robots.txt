@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ekiciuyi.github.io/hNg/sitemap_index.txt
+Sitemap: https://ekiciuyi.github.io/jqG/sitemap_index.txt
+Sitemap: https://ekiciuyi.github.io/sie/sitemap_index.txt
+Sitemap: https://ekiciuyi.github.io/wCI/sitemap_index.txt
